@@ -1,0 +1,29 @@
+# NahimFourthPodLib
+
+[![CI Status](https://img.shields.io/travis/Nahim1/NahimFourthPodLib.svg?style=flat)](https://travis-ci.org/Nahim1/NahimFourthPodLib)
+[![Version](https://img.shields.io/cocoapods/v/NahimFourthPodLib.svg?style=flat)](https://cocoapods.org/pods/NahimFourthPodLib)
+[![License](https://img.shields.io/cocoapods/l/NahimFourthPodLib.svg?style=flat)](https://cocoapods.org/pods/NahimFourthPodLib)
+[![Platform](https://img.shields.io/cocoapods/p/NahimFourthPodLib.svg?style=flat)](https://cocoapods.org/pods/NahimFourthPodLib)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+NahimFourthPodLib is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'NahimFourthPodLib'
+```
+
+## Author
+
+Nahim1, nahim.makhani7786@gmail.com
+
+## License
+
+NahimFourthPodLib is available under the MIT license. See the LICENSE file for more info.
