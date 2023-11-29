@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NahimFourthPodLib'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'This is summary for my fourth pod'
 
 # This description is used to generate tags and improve search results.
